@@ -53,8 +53,3 @@ This project was created for educational purposes to explore the capabilities of
 
 ---
 
-```bash
-.
-├── Generate_Images_with_GANs.ipynb     # DCGAN for MNIST digit generation
-├── Text_Generation_with_GPT.ipynb      # GPT-2 based text generator
-└── README.md                           # Project documentation
